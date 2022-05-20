@@ -1,6 +1,6 @@
 # Image Encryption App
 
-This is an Image Encrpyting website which is made using React and Python. We have used XOR function to encrypt the images. The project is made using Material UI and Fast API. The App is hosted at Netlify as: 
+This is an Image Encrpyting website which is made using React and Python. We have used XOR function to encrypt the images. The project is made using Material UI, Axios, React-router-dom and Fast API. The App is hosted at Netlify as: 
 
 ## Available Scripts
 
