@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Image Encryption App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an Image Encrpyting website which is made using React and Python. We have used XOR function to encrypt the images. The project is made using Material UI and Fast API. The App is hosted at Netlify as: 
 
 ## Available Scripts
 
